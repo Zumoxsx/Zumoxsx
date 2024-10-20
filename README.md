@@ -7,7 +7,7 @@
 ⚡️ Fun fact: I'm 16 years old and I want to go to Japan.
 
 ## I currently use:
-![zorin](https://img.shields.io/badge/Arch Linux%20OS-0CC1F3?style=for-the-badge&logo=archlinux&logoColor=white)
+![zorin](https://img.shields.io/badge/ArchLinux%20OS-0CC1F3?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ## Currently:
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
