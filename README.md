@@ -5,10 +5,10 @@ By day I learn Japanese, and by night I hack, use Linux, and do things that some
 [![My Skills](https://skillicons.dev/icons?i=arch,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
 
 # My GitHub stats:
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&card_width=350&format=compat&theme=tokyonight&")
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&card_width=350&hide_border=true&theme=tokyonight&")
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&border=truet&card_width=350&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zumoxsx&theme=tokyonight&mode=weekly&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zumoxsx&hide_border=true&theme=tokyonight&mode=weekly&card_width=350)](https://git.io/streak-stats)
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumoxsx&theme=tokyonight) 
 
