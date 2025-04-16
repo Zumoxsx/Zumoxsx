@@ -9,7 +9,7 @@ By day I learn Japanese, and by night I hack, use Linux, and do things that some
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&border=truet&layout=compact&card_width=350&theme=tokyonight)
 
-![x](https://github-readme-streak-stats.herokuapp.com/?user=Zumoxsx&border=true&layout=compact&card_width=350&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zumoxsx&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumoxsx&border=true&theme=tokyonight) 
 
