@@ -2,7 +2,7 @@
 By day I learn Japanese, and by night I hack, use Linux, and do things that sometimes I don't even understand... but it works, and that's what I love.
 
 ## I currently use:
-[![My Skills](https://skillicons.dev/icons?i=arch,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
 # My GitHub stats:
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&hide_border=true&layout=compact&card_width=350&theme=tokyonight&hide")
