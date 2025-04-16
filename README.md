@@ -1,4 +1,5 @@
-# Hi, I'm Zumo. By day I learn Japanese, and by night I hack, use Linux, and do things that sometimes I don't even understand... but it works, and that's what I love.
+# Hi, I'm Zumo,
+By day I learn Japanese, and by night I hack, use Linux, and do things that sometimes I don't even understand... but it works, and that's what I love.
 
 ## I currently use:
 ![Arch Linux](https://img.shields.io/badge/ArchLinux%20OS-0CC1F3?style=for-the-badge&logo=archlinux&logoColor=white)
