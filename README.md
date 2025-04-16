@@ -8,7 +8,7 @@ By day I learn Japanese, and by night I hack, use Linux, and do things that some
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&card_width=350&hide_border=true&theme=tokyonight&")
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&card_width=350&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zumoxsx&theme=tokyonight&hide_border=true&mode=weekly&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zumoxsx&theme=tokyonight&hide_border=true&mode=weekly&card_width=350)]
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumoxsx&theme=tokyonight) 
 
