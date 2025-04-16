@@ -4,7 +4,7 @@
 ![Arch Linux](https://img.shields.io/badge/ArchLinux%20OS-0CC1F3?style=for-the-badge&logo=archlinux&logoColor=white)
 
 # My GitHub stats:
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&layout=compact&card_width=350&theme=tokyonight&hide")
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&hide_border=true&layout=compact&card_width=350&theme=tokyonight&hide")
 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&layout=compact&card_width=350&theme=tokyonight)
 
