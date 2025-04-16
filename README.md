@@ -5,13 +5,13 @@ By day I learn Japanese, and by night I hack, use Linux, and do things that some
 [![My Skills](https://skillicons.dev/icons?i=arch,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
 
 # My GitHub stats:
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&hide_border=false&&layout=compact&card_width=350&theme=tokyonight&")
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zumoxsx&border=true&layout=compact&card_width=350&theme=tokyonight&")
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&hide_border=false&layout=compact&card_width=350&theme=tokyonight)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zumoxsx&border=truet&layout=compact&card_width=350&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zumoxsx&hide_border=false&layout=compact&card_width=350&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zumoxsx&border=true&layout=compact&card_width=350&theme=tokyonight)
 
-![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumoxsx&hide_border=false&theme=tokyonight) 
+![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zumoxsx&border=true&theme=tokyonight) 
 
 
 ##  Social Networks.
